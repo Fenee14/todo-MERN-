@@ -39,6 +39,6 @@ This is a simple To-Do List application built using the MERN stack (MongoDB, Exp
    cd frontend
    npm run dev
 
-   
+   Please change branch to master for check code of backend and fronted
 
    
